@@ -28,3 +28,7 @@ double desconto = (condição) ? valor se verdadeiro : valor se falso;
 porque não tem o return no Ex3?
 porque é void e não double no Ex3?
 Só pode 1 String puxar o valor do nome do "rect, product, etc"
+get = retornar o atributo
+set = alterar o atributo
+
+char x = sc.next().charAt(0);
