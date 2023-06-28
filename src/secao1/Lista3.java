@@ -19,19 +19,9 @@ public class Lista3 {
             valores.add(y);
         }
 
-        for(Integer z : valores) {
-            System.out.println(z);
+        valores.forEach(System.out :: println);
+
         }
-
-
-
-
-
-
-
-
-
-    }
 }
 
 
